@@ -1,0 +1,17 @@
+{
+  "courses": [
+    {
+      "id": "f3f2",
+      "title": "java",
+      "trainer": "Ankita",
+      "description": "core java trainer",
+      "createdAt": ""
+    },
+    {
+      "title": "SQL",
+      "trainer": "surajj",
+      "description": "sql trainer",
+      "id": "d353"
+    }
+  ]
+}
